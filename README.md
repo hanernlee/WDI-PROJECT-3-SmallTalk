@@ -2,6 +2,10 @@
 
 Small Talk is a conversation starter app. It comes with random facts and images to use in your conversation, based on the categories you choose.
 
+<img src="http://i.imgur.com/i2sA2yq.png" width="290">
+<img src="http://i.imgur.com/hXdgfXy.png" width="290">
+<img src="http://i.imgur.com/gAOWaWh.png" width="290">
+
 ## Objective
 
 To build a MVP that will be useful for normal conversations.
