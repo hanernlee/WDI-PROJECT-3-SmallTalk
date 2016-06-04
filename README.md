@@ -1,68 +1,52 @@
+# Small Talk
 
-
-# SMALL TALK
-___
-
-Small Talk is a conversation starter app. It comes with random facts and images to use in your conversation, according to the categories you choose.
+Small Talk is a conversation starter app. It comes with random facts and images to use in your conversation, based on the categories you choose.
 
 ## Objective
-___
 
-To build a responsive CRUD Rails app which uses different APIs. Use Github to collectively maintain code.
+To build a MVP that will be useful for normal conversations.
 
-## Technologies
-___
+## Technologies used
 
-1. Ruby
-2. Rails framework
+1. Ruby On Rails
+2. JavaScript including the following libraries:
+  - Owl.js
+  - jQuery (including Ajax)
 3. PostgreSQL
-4. jQuery
-5. Ajax
-6. CSS3 (together with Materialize framework)
-7. HTML5
-8. SCSS
-9. Owl.js
-10. Animate.css
+4. HTML5
+5. Sass / CSS3
+  - Materialize CSS framework
+  - Animate.css
+6. Heroku hosting
+
 
 ## Key Features
-___
 
-* The app can be used without logging in.
-* Users can save their favourites after logging in.
-* Users can delete their favourites.
+- Users are able to choose any categories and instantly get conversation starters based on the chosen category
+- Users can log in to save conversation starters which will be added to their favourites list (favourites can also be deleted)
+
 
 ## Links
-___
 
-Heroku: http://smallchats.herokuapp.com/
+Check out the app [Small Talk](http://smallchats.herokuapp.com/)
 
-## Challenges
-___
+## Team members
 
-The first challenge we faced was figuring out the APIs that we wanted to use. We initially wanted to use the twitter api, but that turned out to be quite a difficult task. We ended up changing the categories and using something else. The Materialize framework also threw up quite a few errors initially. But I feel, the biggest challenge was Github! The conflict resolution with merging code was quite time consuming, till we got the hang of it. Another challenge was getting animations working across different browsers because of CSS compatibility.
-
-## CRUD Operations
-___
-
-### Create
-* Creating Users (Signing Up)
-* Creating Sessions (Logging in)
-* Creating Favourites (Liking/Saving a post)
-
-### Read
-* Users can view their Favourites
-* Usera can click on different categories and view content
-
-### Update
-* Users can update their password
-
-### Delete
-* Users can delete their favourited content
-
-## Wisdom
-___
-
-With more time, we would have had added more categories. We would also have added social media functionality.
+| Small Talk    |
+| ------------- |
+| Alistair      |
+| Chris         |
+| Pranati       |
 
 
+Links to our GitHub accounts:
+- [Alistair](https://github.com/ajmartin12)
+- [Chris](https://github.com/hanernlee)
+- [Pranati](https://github.com/natyv)
 
+
+## Acknowledgements
+
+Thanks to [DT](https://github.com/epoch), [Matt](https://github.com/mattswann), [JB](https://github.com/bairstow) and the iterm8s class for all the assistance and guidance!
+
+*This project was undertaken as part of the General Assembly WDI course.*
