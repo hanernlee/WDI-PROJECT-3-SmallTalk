@@ -1,6 +1,6 @@
 # Small Talk
 
-Small Talk is a conversation starter app. It comes with random facts and images to use in your conversation, based on the categories you choose
+Small Talk is a conversation starter app. It comes with random facts and images to use in your conversation, based on the categories you choose.
 
 ## Objective
 
